@@ -10,6 +10,7 @@ Best-selling products and categories
 Revenue contribution by region or segment
 Customer behavior and retention insights
 Key KPIs such as Total Revenue, Profit, Orders, and Conversion Rates
+
 📊 Dashboard Features
 📈 Trend Analysis (Daily, Monthly, Yearly)
 📦 Product Category and Sub-category Breakdown
@@ -17,6 +18,7 @@ Key KPIs such as Total Revenue, Profit, Orders, and Conversion Rates
 👤 Customer Segmentation
 💰 Revenue, Profit, Order Value Metrics
 🧠 Smart filters and drill-downs
+
 🛠 Tools & Technologies
 Power BI Desktop
 DAX for calculated metrics
