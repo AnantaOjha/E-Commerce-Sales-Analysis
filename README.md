@@ -1,25 +1,40 @@
 # E-Commerce-Sales-Analysis
-🛒 E-Commerce Sales Analysis Dashboard
-An interactive Power BI dashboard that analyzes e-commerce sales performance across multiple dimensions such as time, geography, product categories, and customer segments. It helps businesses track KPIs, identify trends, and make data-driven decisions.
+A fully interactive **Power BI dashboard** designed to analyze e-commerce sales performance across multiple dimensions such as time, region, product category, and customer segment. The dashboard provides key business KPIs, sales insights, and trend analysis to support data-driven decision-making.
 
-📌 Project Objective
-To visualize and understand:
+---
 
-Sales trends over time
-Best-selling products and categories
-Revenue contribution by region or segment
-Customer behavior and retention insights
-Key KPIs such as Total Revenue, Profit, Orders, and Conversion Rates
+## 📌 Project Objective
 
-📊 Dashboard Features
-📈 Trend Analysis (Daily, Monthly, Yearly)
-📦 Product Category and Sub-category Breakdown
-🌍 Region-wise and Country-wise Sales Insights
-👤 Customer Segmentation
-💰 Revenue, Profit, Order Value Metrics
-🧠 Smart filters and drill-downs
+To explore, visualize, and understand:
 
-🛠 Tools & Technologies
-Power BI Desktop
-DAX for calculated metrics
-Data Source: CSV
+- 📅 Sales trends over time (daily, monthly, yearly)
+- 🏆 Best-selling products, categories, and sub-categories
+- 🌍 Revenue contribution by country, state, or region
+- 👤 Customer behavior, segmentation, and retention trends
+- 💰 Key KPIs such as **Total Revenue, Profit, Orders, AOV, Conversion Rate**, etc.
+
+---
+
+## 📊 Dashboard Features
+
+| Feature | Description |
+|---------|-------------|
+| 📈 Trend Analysis | Revenue & order growth across different time periods |
+| 📦 Product Breakdown | Category & sub-category performance insights |
+| 🌍 Geo Analytics | Region-wise & country-wise sales comparison |
+| 👤 Customer Insights | Segmentation by demographics & purchase frequency |
+| 💰 KPI Cards | Total Sales, Total Profit, Orders, Avg. Order Value |
+| 🧠 Smart Interactions | Slicers, drill-downs, hover tooltips, bookmarks |
+
+---
+
+## 🛠 Tools & Technologies
+
+| Tool | Purpose |
+|------|---------|
+| **Power BI Desktop** | Dashboard creation & visualization |
+| **Power Query** | Data cleaning & transformation |
+| **DAX** | Calculated columns & measures |
+| **CSV Dataset** | Raw e-commerce sales data |
+
+---
